@@ -31,7 +31,7 @@ const MyMeal = () => {
         </div>
       </div>
       {/* personal details */}
-      <div>
+      <div className="text-center">
         <img
           src="https://readymadeui.com/team-3.webp"
           className="w-32 h-32 rounded-full inline-block"
@@ -47,7 +47,7 @@ const MyMeal = () => {
           </p>
         </div>
       </div>
-      <div>
+      <div className="text-center">
         <h3 className="text-base font-bold text-gray-600 underline">
           {" "}
           Meal History
